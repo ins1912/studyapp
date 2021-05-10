@@ -26,6 +26,7 @@ import com.jpegkit.JpegImageView;
 public class MainActivity extends AppCompatActivity implements Toolbar.OnMenuItemClickListener {
 
     private CameraKitView cameraView;
+
     private Toolbar toolbar;
 
     private AppCompatTextView facingText;
